@@ -1,3 +1,6 @@
+### Description
+A HTTP server that can retrieve user input from a HTML form.
+
 ### Features
 **Basic Routing:** handled GET and POST requests.
 
